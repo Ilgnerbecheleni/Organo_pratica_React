@@ -1,0 +1,22 @@
+.footer {
+    background-color: #6278F7;
+    padding: 32px;
+    display: flex;
+    justify-content: space-around;
+} 
+
+.links{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.links img{
+    max-width: 32px;
+    max-height: 32px;
+}
+
+.autor{
+    color:white;
+    font-size: 24px;
+}
